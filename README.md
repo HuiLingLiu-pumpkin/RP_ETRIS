@@ -3,5 +3,9 @@ Reproduce ICCV 2023 paper----"Bridging Vision and Language Encoders: Parameter-E
 
 | Method | Backbone | Param. | val | test A | test B |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
