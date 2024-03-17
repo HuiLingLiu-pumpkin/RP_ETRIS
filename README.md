@@ -1,6 +1,8 @@
 # RP_ETRIS
 Reproduce ICCV 2023 paper----"Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation"
 
+In the original paper, the authors used three datasets (RefCOCO, RefCOCO+, and G-Ref). The reproduction of this paper was carried out in the RefCOCO dataset and the following table shows the experimental results of the evaluation metric IoU.
+
 | Method | Backbone | Param. | val | test A | test B |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ETRIS  | CLIP ResNet-101  |1.94M  | 71.06  |74.11  | 66.66  |
