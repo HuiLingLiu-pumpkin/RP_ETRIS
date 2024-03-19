@@ -10,4 +10,4 @@ In the original paper, the authors used three datasets (RefCOCO, RefCOCO+, and G
 | ETRIS  | ResNet-50  |1.68M  | 70.39  |73.11  | 66.38  |
 | ETRIS_RP  | ResNet-50  |1.68M  | 69.88  |72.76  | 65.35  |
 | ETRIS  | ViT-B-16  |1.39M  | 70.51  |73.51  | 66.63  |
-| ETRIS_RP  | ViT-B-16   |1.39M  |    |   |    |
+| ETRIS_RP  | ViT-B-16   |1.39M  | 70.66   |  73.89 |   66.84 |
